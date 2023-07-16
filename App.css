@@ -1,0 +1,38 @@
+.App{
+    text-align: center;
+    background: aqua;
+}
+.body{
+  background: aqua;
+}
+.input{
+    padding: 4px;
+    margin-right: 8px;
+}
+
+.ul{
+    list-style: none;
+}
+.li{
+    margin: 12px 0;
+}
+
+.deletebutton{
+  font-size: 10px;
+  margin-left: 8px;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.handle-change{
+  padding-bottom: 8px;
+  margin-left: 8px;
+}
+.date1{
+  padding-right: 5px;
+  background-color:gray;
+  color: white;
+}
